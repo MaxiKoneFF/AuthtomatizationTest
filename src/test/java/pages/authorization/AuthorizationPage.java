@@ -42,3 +42,4 @@ public class AuthorizationPage {
     return element(LINK_FORGOT_PASSWORD);
   }
 }
+
